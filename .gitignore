@@ -6,9 +6,16 @@ pom.xml.asc
 /classes/
 /target/
 /checkouts/
+.nrepl-port
+.cpcache/
+
+# Leiningen
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
 .lein-failures
-.nrepl-port
-.cpcache/
+
+# clojure-lsp
+.lsp
+output.calva-repl
+.clj-kondo
