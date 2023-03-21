@@ -1,6 +1,6 @@
 # Living Clojure Learning
-This is my repository for learning Clojure using the book ["Living Clojure"](https://www.amazon.ca/Living-Clojure-Introduction-Training-Developers/dp/1491909048) by Carin Meier. I will be following along with the book, writing code examples and completing exercises for each chapter.
-
+    This is my repository for learning Clojure using the book ["Living Clojure"](https://www.amazon.ca/Living-Clojure-Introduction-Training-Developers/dp/1491909048) by Carin Meier. I will be following along with the book, writing code examples and completing exercises for each chapter. This exercise should also help with "muscle memory",
+    
 # Book Table of Contents
 | Chapter | Status |
 | :--- | :---: |   
@@ -17,6 +17,6 @@ This is my repository for learning Clojure using the book ["Living Clojure"](htt
 |[Chapter 11. Further Adventures](src/clj/lc_ch11/core.clj) | not started
 
 # nrepl setup
-1. Install [Calva](https://calva.io/) in VS Code Extension pane.
+1. Install [Calva](https://calva.io/) in VS Code Extension pane
 1. Create [deps.edn](deps.edn) file
 1. Command: Start a Project REPL and Connect (aka Jack-In)
