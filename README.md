@@ -4,7 +4,7 @@
 # Book Table of Contents
 | Chapter | Status |
 | :--- | :---: |   
-|[Chapter 1. The Structure of Clojure](src/clj/lc_ch1/core.clj) | not started
+|[Chapter 1. The Structure of Clojure](src/clj/lc_ch1/core.clj) | DONE
 |[Chapter 2. Flow and Functional Transformations](src/clj/lc_ch2/core.clj) | not started
 |[Chapter 3. State and Concurrency](src/clj/lc_ch3/core.clj) | not started
 |[Chapter 4. Java Interop and Polymorphism](src/clj/lc_ch4/core.clj) | not started
