@@ -7,10 +7,10 @@ This is my repository for learning Clojure using the book ["Living Clojure"](htt
 |[Chapter 2. Flow and Functional Transformations](src/clj/lc_ch2/core.clj) | DONE
 |[Chapter 3. State and Concurrency](src/clj/lc_ch3/core.clj) | DONE
 |[Chapter 4. Java Interop and Polymorphism](src/clj/lc_ch4/core.clj) | DONE
-|[Chapter 5. How to Use Clojure Projects and Libraries](src/clj/lc_ch5/core.clj) | WIP
-|[Chapter 6. Communication with core.async](src/clj/lc_ch6/core.clj) | not started
+|[Chapter 5. How to Use Clojure Projects and Libraries](src/clj/lc_ch5/core.clj) | not started
+|[Chapter 6. Communication with core.async](src/clj/lc_ch6/core.clj) | DONE
 |[Chapter 7. Creating Web Applications with Clojure](src/clj/lc_ch7/core.clj) | not started
-|[Chapter 8. The Power of Macros](src/clj/lc_ch8/core.clj) | not started
+|[Chapter 8. The Power of Macros](src/clj/lc_ch8/core.clj) | WIP
 |[Chapter 9. Joining the Clojure Community](src/clj/lc_ch9/core.clj) | not started
 |[Chapter 10. Weekly Living Clojure Training Plan](src/clj/lc_ch10/core.clj) | not started
 |[Chapter 11. Further Adventures](src/clj/lc_ch11/core.clj) | not started

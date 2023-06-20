@@ -1,5 +1,7 @@
 {:paths ["src/clj"]
- :deps {org.clojure/clojure {:mvn/version "1.11.1"}}
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        org.clojure/core.async {:mvn/version "1.6.673"}}
+        
 
  :aliases {:nrepl {:extra-deps {nrepl/nrepl {:mvn/version "1.0.0"}}}
            :aa {:jvm-opts ["-Djdk.attach.allowAttachSelf"]}}}
